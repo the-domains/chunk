@@ -1,0 +1,28 @@
+name: Chunk
+favicon: null
+layout_spectrum: 0.8236058212351054
+typography_spectrum: 0.7049110953230411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.055159047711640596
+  lightness: 0.8659516454208642
+  saturation: 0.5478296002838761
+  rhythmicContrast: 0.5754079942125827
+purpose: []
