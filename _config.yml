@@ -2,6 +2,7 @@ name: Chunk
 favicon: null
 layout_spectrum: 0.8236058212351054
 typography_spectrum: 0.7049110953230411
+title: "Chunk's Site"
 cta:
   domain: null
   bucket: null
